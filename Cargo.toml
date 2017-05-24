@@ -1,0 +1,6 @@
+[package]
+name = "rust_suffix"
+version = "0.1.0"
+authors = ["Vanessa McHale vamchale@gmail.com"]
+
+[dependencies]
