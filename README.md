@@ -1,5 +1,5 @@
 # rust-suffix
 
-## Installation
+## Use
 
-## Configuration
+This benchmarks a `suffix` function, so that rust may be compared to ghc.
